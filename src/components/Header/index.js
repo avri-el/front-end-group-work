@@ -1,6 +1,6 @@
 import Logo from "../logo";
 import Generations from "../generations";
-import Footer from "../footer";
+import Footer from "../Footer";
 
 const Header = () => {
   return (
