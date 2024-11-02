@@ -1,5 +1,6 @@
 import Logo from "../logo";
 import Generations from "../generations";
+import Footer from "../footer";
 
 const Header = () => {
   return (
@@ -7,6 +8,7 @@ const Header = () => {
       <h2>This is header.</h2>
       <Logo />
       <Generations />
+      <Footer />
     </div>
   );
 }
