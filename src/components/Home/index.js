@@ -3,7 +3,7 @@ import Search from '../Search'
 const Home = () => {
     return (
       <div>
-        <h2>This is Home.</h2>
+        <h1>This is Home.</h1>
         <Search />
       </div>
     );
