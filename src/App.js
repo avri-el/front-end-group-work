@@ -1,12 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
+import Header from "./components/Header"
 
-const App= () => {
+const App = () => {
   return (
     <div>
-      <h1>Hello.</h1>
+      <Header/>
     </div>
   )
 }
 
-export default App;
+export default App
