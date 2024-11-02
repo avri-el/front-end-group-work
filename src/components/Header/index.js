@@ -1,4 +1,5 @@
-import Logo from "./components/Logo";
+import Logo from "../logo";
+
 
 const Header = () => {
   return (
