@@ -1,4 +1,5 @@
 import Logo from "../logo";
+import Generations from "../generations";
 
 
 const Header = () => {
@@ -6,6 +7,7 @@ const Header = () => {
     <div>
       <h2>This is header.</h2>
       <Logo />
+      <Generations />
     </div>
   );
 }
