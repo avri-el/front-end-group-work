@@ -1,8 +1,9 @@
 const Gen1 = () => {
-    return <ul>
-    <li>this is Gen 1.</li>
-  </ul>
-  
-  }
+  return (
+    <ul>
+      <li>This is Gen 1.</li>
+    </ul>
+  );
+}
 
-export default Gen1
+export default Gen1;

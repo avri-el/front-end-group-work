@@ -1,7 +1,6 @@
 import Logo from "../logo";
 import Generations from "../generations";
 
-
 const Header = () => {
   return (
     <div>
@@ -13,3 +12,4 @@ const Header = () => {
 }
 
 export default Header;
+
