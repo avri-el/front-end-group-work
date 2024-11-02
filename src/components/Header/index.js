@@ -1,5 +1,12 @@
-const Header = () => {
-    return <h2>This is header.</h2>
-  }
+import Logo from "./components/Logo";
 
-export default Header
+const Header = () => {
+  return (
+    <div>
+      <Logo />
+      <h2>This is header.</h2>
+    </div>
+  );
+}
+
+export default Header;
