@@ -1,5 +1,5 @@
 import Search from '../Search'
-import CardInfo from ".components/CardInfo"
+import CardInfo from "../cardInfo"
 
 const Home = () => {
     return (
